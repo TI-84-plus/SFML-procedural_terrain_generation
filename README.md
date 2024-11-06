@@ -8,5 +8,3 @@ and can select the map with enter(Selecting doesnt do anything so far).
 offcourse i dont have any Game Menu, Settings Menu, stuff just yet, obviously iam gonna work on core game first and then expand into details from there.
 
 compilation instruction coming soon...but should work with linux using CMake. Windows should also work but i have not tried compiling with windows yet.
-have not done any compilation testing or anything, no point just yet should focus more on the project then get distracted by those things, does work for me tho
-
